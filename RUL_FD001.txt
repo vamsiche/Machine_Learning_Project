@@ -1,0 +1,19 @@
+Complete Pipeline (Explain to Guide)
+
+You can explain your project like this:
+
+Sensor Data
+   ↓
+Data Cleaning
+   ↓
+Feature Scaling
+   ↓
+Sequence Generation
+   ↓
+LSTM Autoencoder Training
+   ↓
+Reconstruction Error
+   ↓
+Health Index
+   ↓
+Anomaly Detection
